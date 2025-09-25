@@ -38,7 +38,7 @@ Note: This dataset is used for educational and analytical purposes.
 24: Total revenue per month
 25: Pending or failed payments
 
-# SQL scripts are available in the       folder
+# SQL scripts are available in the "Healthcare sql.sql" folder.
 
 # Power BI Dashboard
 The dashboard highlights both KPIs and visuals for easy interpretation.
@@ -63,7 +63,7 @@ Visuals
 - Revenue by Treatment Type → Clustered Bar
 - Revenue by Hospital Branch → Stacked Bar
 
-Dashboard screenshots are available in the     folder.
+Dashboard screenshots are available in the "Healthcare Dashboard.png" folder.
 
 # Key Insights
 - Gender and age distribution reveal patient demographics and trends.
