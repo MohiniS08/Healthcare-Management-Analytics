@@ -1,17 +1,17 @@
 # Healthcare Management Analytics
 A data-driven healthcare analytics project built using SQL and Power BI to analyze hospital management data. The project aims to provide actionable insights into patient demographics, doctor performance, treatment trends, revenue generation, and overall hospital efficiency.
 
-# **Project Overview**
+# Project Overview
 - Created a Hospital Management Database with tables: Patients, Doctors, Appointments, Treatment, Billing.
 - Performed SQL queries to answer 25 business questions related to patients, doctors, treatments, appointments, and revenue.
 - Desiged a Power BI Dashboard to visualize KPIs and provided interactive insights.
 
-# **Dataset**
+# Dataset
 Source: Kaggle
 Description: Contains data on patient, doctor, appointments, treatments, billing, and insurance.
 Note: This dataset is used for educational and analytical purposes.
 
-# **SQL Analysis**
+# SQL Analysis
 1: How many patients are registered in the hospital by gender?
 2: Age distribution of patients
 3: Insurance provider patients
@@ -40,7 +40,7 @@ Note: This dataset is used for educational and analytical purposes.
 
 # SQL scripts are available in the       folder
 
-# **Power BI Dashboard**
+# Power BI Dashboard
 The dashboard highlights both KPIs and visuals for easy interpretation.
 **KPIs**  
 - Outstanding Revenue
@@ -48,14 +48,14 @@ The dashboard highlights both KPIs and visuals for easy interpretation.
 - Total Patients
 - Collected Revenue
 
-**Slicers**
+Slicers
 - Quarter
 - Hospital Branch
 - Specialization
 - Insurance Provider
 - Payment Status
 
-**Visuals**
+Visuals
 - Payment Status → Donut Chart
 - Revenue Trend → Line Chart
 - Appointments by Specialization → Clustered Bar
@@ -65,24 +65,32 @@ The dashboard highlights both KPIs and visuals for easy interpretation.
 
 Dashboard screenshots are available in the     folder.
 
-# **Key Insights**
+# Key Insights
 - Gender and age distribution reveal patient demographics and trends.
 - Certain specializations generate significantly higher revenue.
 - Peak hours highlight optimal times for doctor utilization.
 - Revenue analysis shows best-performing branches.
 - Insurance providers play a critical role in billing and claims.
 
-# **How to Use**
+# How to Use
 1. Run SQL queries: Navigate to     execute queries in your SQL environment,
 2. Power BI Dashboard: Download the .pbix file from the repo, open it in Power BI Desktop to explore interactive visuals.
 
-# **Tech Stack**
+# Tech Stack
 - SQL → Data extraction & analysis
 - Power BI → Data visualization & dashboarding
 - Kaggle Dataset → Data source
 
+# What I learned
+- Creating and managing a structured hospital management database.
+- Writing complex SQL queries to answer real-world business questions.
+- Identifying key hospital performance metrics such as revenue, utilization, and demographics.
+- Transforming raw healthcare data into meaningful business insights
+- Applying best practices in visualization for clarity and decision-making
+
 # Contact
 Email: t2000sisodia@gmail.com
+GitHub: https://github.com/MohiniS08
 
 
 
