@@ -73,7 +73,7 @@ Dashboard screenshots are available in the "Healthcare Dashboard.png" folder.
 - Insurance providers play a critical role in billing and claims.
 
 # How to Use
-1. Run SQL queries: Navigate to     execute queries in your SQL environment,
+1. Run SQL queries: Navigate to "Healthcare sql.sql" execute queries in your SQL environment,
 2. Power BI Dashboard: Download the .pbix file from the repo, open it in Power BI Desktop to explore interactive visuals.
 
 # Tech Stack
